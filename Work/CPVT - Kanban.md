@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Ideas
 
-- [ ] Use Geometry Nodes for any type of visualization, lines to target are also perfectly doable
+- [ ] Use Geometry Nodes for any type of visualization, lines to target are also perfectly doable!
 
 
 ## To Do
