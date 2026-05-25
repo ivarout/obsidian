@@ -1,0 +1,1 @@
+check if there is a good product available to show custom images, like bing images, in a nice picture frame, slightly large if possible.

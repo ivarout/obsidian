@@ -1,0 +1,4 @@
+- [ ] Re-install linux and windows, with encryption this time. If someone steals my pc now, they have everything!
+- [x] Make a more efficient backup, we don't need to create a full disk copy, rather keep a list of all installed packages.
+- [ ] Use lvm, so we can add disks later on if we need. and just cuz it's interesting...
+- [ ] Don't forget to create some

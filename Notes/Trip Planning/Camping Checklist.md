@@ -1,0 +1,36 @@
+#checklist #camping
+
+- [ ] Cleaning
+	- [ ] gomi fukuro
+	- [ ] kitchen paper
+	- [ ] alcohol wipes
+	- [ ] sponge
+	- [ ] dish soap
+	- [ ] Tissues
+	- [ ] hang dryer
+- [ ] Camping box
+	- [ ] gas + burner (camping box)
+	- [ ] plates + coffee cups
+	- [ ] lamp
+	- [ ] campfire set + matches
+	- [ ] hashi + spoon + marshmallow stick
+	- [ ] cutting knife
+- [ ] For sleeping
+	- [ ] tent
+	- [ ] matras
+	- [ ] sleeping bag
+	- [ ] inflatable pillow
+- [ ] general
+	- [ ] asefuki sheet
+	- [ ] cooler bag
+	- [ ] picknick sheet
+	- [ ] chairs + table
+	- [ ] sun glasses
+	- [ ] towels
+	- [ ] games
+	- [ ] toothbrush
+	- [ ] clean clothes
+	- [ ] anker soundcore
+- [ ] Temp
+	- [ ] Book
+	- [ ] Drinks

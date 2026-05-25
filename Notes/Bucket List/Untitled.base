@@ -1,0 +1,14 @@
+formulas:
+  cover_image: if(file.embeds[0].containsAny("jpg","gif","webp","jpeg","avif","png"), file.embeds[0], "../../_Attachments/wishlist.png")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - formula.cover_image
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.tags.contains("bucket_list")
+    image: formula.cover_image

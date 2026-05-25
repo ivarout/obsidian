@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: View 2
+    filters:
+      and:
+        - file.tags.contains("todo")
+    order:
+      - file.name
+      - file.ctime
+    sort:
+      - property: file.ctime
+        direction: ASC
+    columnSize:
+      file.name: 294

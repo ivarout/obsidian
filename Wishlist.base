@@ -1,0 +1,17 @@
+formulas:
+  cover: |
+    if(file.embeds[0].containsAny("jpg","gif","webp","jpeg","avif","png"), file.embeds[0], "../../_Attachments/wishlist.png")
+properties:
+  formula.cover:
+    displayName: cover image
+views:
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.tags.contains("wishlist")
+        - file.folder != "_Templates"
+        - '!file.folder.contains("Archive")'
+    order:
+      - file.name
+    image: formula.cover

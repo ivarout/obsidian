@@ -1,0 +1,3 @@
+- [ ] rittersport lidl 1.49 per stuk
+- [ ] milka vomar vanaf zondag
+- [ ] tony chocolonely 1 + 1 gratis ah vanaf dinsdag

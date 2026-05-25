@@ -1,0 +1,17 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "Inbox"
+  - type: table
+    name: View 2
+    filters:
+      and:
+        - file.folder == "Inbox"
+    order:
+      - file.name
+      - file.ctime
+    sort:
+      - property: file.ctime
+        direction: ASC
