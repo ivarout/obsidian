@@ -1,9 +1,7 @@
-## Work
+#work #CPVT
+## To Do
 
 - [ ] Use height wrt ground in geometry nodes (instead of using raycast within geometry node)
 - [ ] We need a refresh function that recalculates heigh wrt ground in edgenodeentity detection archive, in case we update the terrain, probably bind this to f5, since it's terrain related.
+## Brain Dump
 
-## Other
-
-- [ ] Go to OK
-- [ ] Fix curtain
