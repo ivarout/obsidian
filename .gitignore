@@ -1,5 +1,6 @@
 .trash/
 .stfolder*/
+.git_credentials_input
 
 /.obsidian/*
 !/.obsidian/app.json
