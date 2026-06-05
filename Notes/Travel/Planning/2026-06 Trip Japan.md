@@ -1,0 +1,1 @@
+Consider kyuushuu island trip
