@@ -2,8 +2,8 @@
 
 ## To Do
 
-- [ ] 
-## Random Ideas
+- [ ] hard off hobby off
+## Brain Dump
 
 
 ## Journal

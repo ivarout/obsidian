@@ -1,3 +1,6 @@
-- [ ] vomar pindakaas (met en zonder nootjes)
-- [ ] heineken x 2
+- [x] sumi
+- [x] lighter
+- [x] starter blocks
+- [x] isu and table cheap
+- [ ] kitchen paper
 - [ ] 
