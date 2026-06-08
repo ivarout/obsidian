@@ -5,7 +5,6 @@
 - [ ] Kick off tracking dll
 	- [ ] inventory of what has to be done
 	- [ ] Startup project
-- [ ] Update CPVT entity paths, use same visualization as sapient.
 ## Brain Dump
 
 
