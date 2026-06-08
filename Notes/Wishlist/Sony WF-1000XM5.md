@@ -1,3 +1,3 @@
 #wishlist 
 
-![[Pasted image 20260608020827.png]]
+![[sony wf-xm10005.png]]
