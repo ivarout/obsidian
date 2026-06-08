@@ -1,5 +1,6 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox",
-  "mobilePullAction": "switcher:open"
+  "mobilePullAction": "switcher:open",
+  "attachmentFolderPath": "/_Attachments"
 }
