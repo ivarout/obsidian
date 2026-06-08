@@ -15,4 +15,4 @@
 /.obsidian/plugins/quickadd/*
 !/.obsidian/plugins/quickadd/data.json
 
-/_Attachments/
+# /_Attachments/
