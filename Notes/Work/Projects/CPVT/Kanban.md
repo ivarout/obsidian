@@ -14,6 +14,7 @@ kanban-plugin: board
 ## Should Do
 
 - [ ] Use Geometry Nodes for any type of visualization, lines to target are also perfectly doable!
+- [ ] Clean up big .blend files from repository
 - [ ] fixed wing representation
 - [ ] Simple RF jammer model
 - [ ] Enable bloom (use compositor) in distribution package
@@ -21,6 +22,7 @@ kanban-plugin: board
 
 ## Must Do
 
+- [ ] have refresh function that recalculates height wrt ground vertex attribute for paths
 - [ ] going back in time with 2d coverage following drone, still not entirely fixed, or is it just a resolution thingy?
 - [ ] Insert keyframe, check logic on when to add keyframe, get_keyframes_location didn't like it if there are more keyframes for x than e.g. z
 - [ ] Fix 2d coverage plane altitude. Altitude is not set immediately when adding.
@@ -48,7 +50,7 @@ kanban-plugin: board
 - [ ] Update Path to use same implementation as sapient paths
 	- [ ] store distance since start as vertex attribute
 	- [ ] Have projection to ground, at least at start and end point, and fixed interval in location (or maybe time)
-	- [ ] Use to common click map operator
+	- [ ] (optional) Use to common click map operator
 
 
 ## Done
