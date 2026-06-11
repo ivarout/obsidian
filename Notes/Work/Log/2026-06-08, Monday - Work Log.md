@@ -5,9 +5,10 @@
 - [ ] ~~Kick off tracking dll~~
 	- [ ] ~~inventory of what has to be done~~
 	- [ ] ~~Startup project~~
-## Brain Dump
-
-
 ## Wrap-Up
 
 ... Not very productive, move everything to tuesday
+## Brain Dump
+
+
+
