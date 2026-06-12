@@ -9,7 +9,7 @@
 - [ ] Check how stuff can be implemented in C++
 ## Wrap-Up
 
-
+Played with yolo and tracking algorithms botsort and bytetrack in python. We draw an initial region, and if there is an IoU with a yolo detection that's high enough, start track. We need to lower the thresholds a bit to make sure that we don't throw away tracks too easily. Add another bit of logic to swap track-ids, since botsort/bytetrack sometimes change the track id in case of sudden changes.
 ## Brain Dump
 
 We can of course draw an ROI, then check which YOLO detection in frame 1 has the highest IoU (with some minimum), and track that. This would work in the current tracking API by Krister. If not constrained by the API, some better option may be to let YOLO detect 1 frame, then let the user select which detection to track.
