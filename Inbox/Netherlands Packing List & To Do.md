@@ -1,3 +1,6 @@
+
+- [ ] lg monitor (maybe throw stand if it's too heavy)
+- [ ] 
 Need to check what can be thrown, and what is still of value.
 
 ### Monitor
