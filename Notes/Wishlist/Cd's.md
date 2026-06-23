@@ -1,0 +1,7 @@
+- [ ] ichiko aobo
+	- [ ] qp
+- [ ] The beatles albums
+	- [ ] red album 2cd (25 euro ish)
+	- [ ] blue album 2cd (15 euro ish)
+- [ ] racoon
+	- [ ] spijt is iets voor later
