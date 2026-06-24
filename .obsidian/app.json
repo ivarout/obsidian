@@ -3,5 +3,9 @@
   "newFileFolderPath": "Inbox",
   "mobilePullAction": "switcher:open",
   "attachmentFolderPath": "/_Attachments",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "_Attachments/",
+    "_Templates/"
+  ]
 }

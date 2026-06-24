@@ -1,6 +1,6 @@
 #wishlist 
 
-Vervang nvidia gpu door 9070 xt, voor betere linux compatibility, maybe even vr will be possilbe on amd.
+Vervang nvidia gpu door 9070 xt, voor betere linux compatibility, maybe even vr will be possilbe on amd. Actually, misschien beter om voor de non-xt variant te gaan, de 750W wordt anders miss aan de krappe kant.
 
 Do find something that fits in my pc though.
 
