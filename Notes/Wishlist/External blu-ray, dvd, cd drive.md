@@ -4,3 +4,5 @@ For collecting some movies and music. Especially cd's can be ripped so i can str
 
 ![[Pasted image 20260623081013.png]]
 Verbatim External Slimline Blu-ray Writer Ultra HD 4K - compact burner for making large backups, black
+
+Note that it **needs to support 4k, ultra hd**. Otherwise, not interested.
