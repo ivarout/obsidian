@@ -1,0 +1,1 @@
+Misschien gewoon al verblijfsvergunning regelen, chiho heeft 3 maanden om deze op te halen. Zelfs als ze niet al permanent in NL blijft vanaf oktober, kan z3 miss wel iig de verblijfsvergunning op halen in by.
