@@ -1,5 +1,4 @@
-#dailynote
-
+#weeklynote
 ## To Do
 
 - [ ] 
@@ -7,4 +6,3 @@
 
 
 ## Journal
-
