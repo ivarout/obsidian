@@ -4,7 +4,7 @@
 
 - [ ] work
 - [ ] run + abs after dinner
-- [ ] get some sim probably Simyo (maandelijks opzegbaar)
+- [x] get some sim probably Simyo (maandelijks opzegbaar)
 - [ ] Read Chapter 11 tobira
 ## Brain Dump
 

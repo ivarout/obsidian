@@ -31,7 +31,8 @@
         "kind": "apply",
         "mode": "doNothing"
       },
-      "fileExistsMode": "Nothing"
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": true
     },
     {
       "id": "8408af66-fcd9-4bf6-9999-42934dffa5e0",
