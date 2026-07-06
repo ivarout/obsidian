@@ -1,0 +1,3 @@
+- [ ] start fitness
+- [ ] find mortgage advisor
+- [ ] 
