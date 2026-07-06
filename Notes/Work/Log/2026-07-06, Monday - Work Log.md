@@ -3,7 +3,7 @@
 
 - [x] Check mail
 - [x] Check TIE26 data (if we have access) vraag ligt by NCIA
-- [x] Werkgeversverklaring (misschien nog even wachten, eigenlijk pas nodig als ik een afspraak met hypotheker heb geplanned).
+- [x] Werkgeversverklaringaanvragen).
 - [x] Vraag nieuwe headset aan
 - [ ] 1 hr checking status CPVT and what to do
 	- [ ] Get a proper test framework up and running. To many bugs creep in all the time.
