@@ -45,8 +45,10 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Use Geometry Nodes for Ground projection along entire path
-	- [ ]
+- [ ] Use Geometry Nodes for Ground projection along entire path, both sapient paths, and user defined paths.
+	- [ ] store previous position as attribute, so we don't calculate ground projection every frame for every vertex, only those not yet calculated
+	- [ ] store birth frame so we know when to show stuff.
+	- [ ] have refresh function, in case terrain is updated we need to update the ground projections too.
 - [ ] Update Path to use same implementation as sapient paths
 	- [ ] store distance since start as vertex attribute
 	- [ ] Have projection to ground, at least at start and end point, and fixed interval in location (or maybe time)
@@ -58,7 +60,7 @@ kanban-plugin: board
 - [ ] Update to Blender 5.2
 	- [x] fcurve access has changes
 	- [x] get/set on Preferences doesn't work the same (e.g. when setting database folder)
-	- [ ] Setting geometry node modifier inputs has changed.
+	- [x] Setting geometry node modifier inputs has changed.
 
 
 
