@@ -46,7 +46,7 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] Use Geometry Nodes for Ground projection along entire path
-	- [ ]
+	- [ ] store previous position as attribute, so we don't calculate ground projection every frame for every vertex, only those not yet calculated
 - [ ] Update Path to use same implementation as sapient paths
 	- [ ] store distance since start as vertex attribute
 	- [ ] Have projection to ground, at least at start and end point, and fixed interval in location (or maybe time)
