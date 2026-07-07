@@ -2,10 +2,10 @@
 
 ## To Do
 
-- [ ] work
-- [ ] run + abs after dinner
+- [x] work
+- [x] run + abs after dinner
 - [x] get some sim probably Simyo (maandelijks opzegbaar)
-- [ ] Read Chapter 11 tobira
+- [x] Read Chapter 11 tobira
 ## Brain Dump
 
 
