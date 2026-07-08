@@ -30,3 +30,9 @@ In the `config.php` file, ensure you have previews enabled for videos, which sho
    11 => 'OC\\Preview\\MarkDown',  
  ),
 ```
+
+### Generate Previews for everything 
+
+1. Install the 'Preview Generator' addon in the nextcloud UI.
+2. In the console in the nextcloud docker container, run `apt-get update && apt-get install ffmpeg imagemagick ghostscript`
+3. in the console in the nextcloud docker container, run `php occ preview:pre-generate -vvv`

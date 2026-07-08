@@ -9,5 +9,5 @@
 	- [ ] Also work on a more useful test framework
 ## Wrap-Up
 
-
+Didn't get too much done, tomorrow definitely get started on the CPVT path visualization.
 ## Brain Dump
