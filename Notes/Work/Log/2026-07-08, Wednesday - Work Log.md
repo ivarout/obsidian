@@ -14,4 +14,6 @@
 
 For automated testing, just test the public interface for now, i.e. stuff available through ops, context, etc.
 
+Try setting up a working version of pytest again (set arguments in pyproject.toml)
+
 This week, we should have a path visualization for user defined paths as well.
