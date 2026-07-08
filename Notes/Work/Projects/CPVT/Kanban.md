@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] Have option to calculate obscuration only when transform has been completed, to make it easier to move stuff around.
 - [ ] Have emission strength reduced for vertices along path that are older.
 - [ ] Add smoothing to path curve in geometry node
+- [ ] Fix the jaggedness when playing animation (blender using temporal anti-aliasing)
 
 
 ## Should Do
@@ -41,6 +42,7 @@ kanban-plugin: board
 	               ^^^^^^^^^^^^^^^^^^^
 	ReferenceError: StructRNA of type Scene has been removed
 	<details>
+- [ ] Have test framework
 
 
 ## In Progress
