@@ -42,19 +42,11 @@ kanban-plugin: board
 	               ^^^^^^^^^^^^^^^^^^^
 	ReferenceError: StructRNA of type Scene has been removed
 	<details>
-- [ ] Have test framework
 
 
 ## In Progress
 
-- [ ] Use Geometry Nodes for Ground projection along entire path, both sapient paths, and user defined paths.
-	- [ ] store previous position as attribute, so we don't calculate ground projection every frame for every vertex, only those not yet calculated
-	- [ ] store birth frame so we know when to show stuff.
-	- [ ] have refresh function, in case terrain is updated we need to update the ground projections too.
-- [ ] Update Path to use same implementation as sapient paths
-	- [ ] store distance since start as vertex attribute
-	- [ ] Have projection to ground, at least at start and end point, and fixed interval in location (or maybe time)
-	- [ ] (optional) Use to common click map operator
+- [ ] [[Path Visualization]]
 
 
 ## Done
