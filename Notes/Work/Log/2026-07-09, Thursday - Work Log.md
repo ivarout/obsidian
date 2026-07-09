@@ -3,6 +3,7 @@
 
 - [ ] Determine how to implement Line Radius and Path stride in a flexible way that allows the user to easily adjust it (similar to object scale maybe).
 - [ ] Replace all subscriptions with the new event system, which gives us more control, e.g. over what properties should be called in the UI. When we use our custom FloatProperty e.g. it is sometimes difficult to give a specific name and description. The event system is way easier, and can be used more broadly.
+	- [ ] use EventContext classes
 ## Wrap-Up
 
 ## Brain Dump 
