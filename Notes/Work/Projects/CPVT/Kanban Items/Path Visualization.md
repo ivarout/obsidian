@@ -9,5 +9,6 @@ As a vertex attribute, we store birthframe, so we know when to show a specific v
 - [ ] Fix setting line radius, simply updating default value doesn't apply to existing path objects. rather use the same approach as used for the CPVT Object Scale.
 - [ ] store birth frame so we know when to show stuff.
 - [ ] have refresh function, in case terrain is updated we need to update the ground projections too.
-- [ ] store distance since start as vertex attribute, so we can show distance travelled and distance to end
+- [ ] store distance since start as vertex attribute, so we can show distance travelled and distance to end.
 - [ ] (optional) Use to common click map operator
+- [ ] Would be nice to allow for global settings with an optional local override
