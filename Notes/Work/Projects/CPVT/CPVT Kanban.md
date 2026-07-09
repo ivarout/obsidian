@@ -42,6 +42,7 @@ kanban-plugin: board
 	               ^^^^^^^^^^^^^^^^^^^
 	ReferenceError: StructRNA of type Scene has been removed
 	<details>
+- [ ] Remove old Event System. Instead create optional log function for new EventContext class.
 
 
 ## In Progress
