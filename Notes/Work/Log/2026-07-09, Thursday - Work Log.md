@@ -6,9 +6,10 @@
 	- [x] Implement event system, where we can emit and subscribe to events
 	- [x] use EventContext classes
 	- [ ] Replace use_cpvt_scale completely
+	- [ ] Use callback for override scale property, such that we can revert to the global setting if disabled.
 ## Wrap-Up
 
-## Brain Dump 
+## Brain Dump
 
 ### Geometry Node inputs
 
