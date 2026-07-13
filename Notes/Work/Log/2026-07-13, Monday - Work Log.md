@@ -7,6 +7,7 @@
 - [ ] Have local scale that can be used as override
 - [ ] Local vs Global visualization, determine how to implement
 - [ ] Use inheritance more, e.g. effector and detector are mostly the same no?
+- [x] Why does Coverage.update_target_parameters go over all views? because target can be global!
 ## Wrap-Up
 
 
