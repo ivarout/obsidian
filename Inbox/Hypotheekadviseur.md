@@ -1,0 +1,1 @@
+Check cournot, heeft volgens de website ervaring met buitenlandse partner/complexe scenarios. Wss wel iets duurder (4000 / 4500 euro).
