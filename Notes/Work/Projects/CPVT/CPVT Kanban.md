@@ -49,6 +49,7 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] [[Path Visualization]]
+- [ ] Replace custom properties with new event system. This is simpler, and allows us to defer complex operations -> safer.
 
 
 ## Done
