@@ -19,6 +19,7 @@ kanban-plugin: board
 - [ ] fixed wing representation
 - [ ] Simple RF jammer model
 - [ ] Enable bloom (use compositor) in distribution package
+- [ ] global target parameter logic too complicated, with locking etc. Should make this easier
 
 
 ## Must Do
