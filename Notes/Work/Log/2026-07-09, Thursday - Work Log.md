@@ -25,7 +25,7 @@ A global cpvt scale is stored in the scene, when updated, update the scale of st
 ### Event System
 
 Maybe make a simple subscription system, describe events by string, then just say 
-subscribe_to_event("cpvt_scale_changed", func...). in other parts, we can do stuff like emit_event("update_cpvt_object_scale", force, ...). 
+subscribe_to_event("cpvt_scale_changed", func...). in other parts, we can do stuff like emit_event("update_cpvt_object_scale", force, ...).
 
 small downside is that it is not super obvious which arguments will be provided when an event is emitted, but just document this somewhere. When subscribing to an event, always provide default arguments, so we don't crash. 
 ### Make a lot more use of depsgraph update handler
