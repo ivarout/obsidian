@@ -9,3 +9,5 @@
 - [ ] verhaaltje over contacten in japan
 - [ ] Voeg itineraries voor werk toe, staat vlucht en hotelinformatie in, dus wss niet te moeilijk
 - [ ] vliegtickets japan 3 maanden...
+
+
