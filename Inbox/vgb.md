@@ -6,4 +6,4 @@
 - [ ] verhaaltje en fotos over onze invulling vwb vrije tijd.
 - [ ] een verhaaltje en documenten voor bankrekeneningen (ook degiro, maar vertel erbij dat hier geen geld meer opstaat).
 - [ ] verhaaltje over contacten in japan
-- [ ] vluchten voor werk in de afgelopen 8 jaar, nahh fuck dat..
+- [ ] Voeg itineraries voor werk toe, staat vlucht en hotelinformatie in, dus wss niet te moeilijk
