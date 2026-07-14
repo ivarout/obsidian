@@ -4,7 +4,7 @@
 - [ ] Replace more subscriptions with new event system
 - [ ] Local vs global visualization settings, such as scale, color, etc.
 - [ ] Think about using inheritance more, e.g. for effectors and detectors, which are very similar...
-- [ ] Path visualization user defined paths
+- [ ] Path visua
 ## Wrap-Up
 
 

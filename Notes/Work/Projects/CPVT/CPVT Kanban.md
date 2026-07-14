@@ -20,6 +20,7 @@ kanban-plugin: board
 - [ ] Simple RF jammer model
 - [ ] Enable bloom (use compositor) in distribution package
 - [ ] global target parameter logic too complicated, with locking etc. Should make this easier
+- [ ] Defer subscriptions to Subscribable property. or have the option at least.
 
 
 ## Must Do
