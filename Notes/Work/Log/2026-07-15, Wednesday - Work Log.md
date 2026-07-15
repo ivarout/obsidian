@@ -1,10 +1,10 @@
 #work
 ## To Do
 
-- [ ] Fix event system, allow optional defer and run_once arguments in 'subscribe_to_event'. Actually add an update policy.
+- [x] Fix event system, allow optional defer and run_once arguments in 'subscribe_to_event'. Actually add an update policy.
 ## Wrap-Up
 
-
+Big improvement to event system, where we can now set an execution policy for subscriptions.
 ## Brain Dump
 
 What should we check when running events, should event context be a simple dataclass always, so we can compare them? and replace queued events if context is the same? probably not... Events like entity detected should be allowed to have duplicated. Just fix the run_once option, which is only relevant for stuff like global object scale, and other global options changing e.g. the scene visualization.
