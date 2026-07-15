@@ -45,20 +45,22 @@ kanban-plugin: board
 	ReferenceError: StructRNA of type Scene has been removed
 	<details>
 - [ ] Remove old Event System. Instead create optional log function for new EventContext class.
+- [ ] Make Global visualization settings more centralized, have local override options
 
 
 ## In Progress
 
+- [ ] Update to Blender 5.2
+	- [x] fcurve access has changes
+	- [ ] keyframe access in path length should be updated
+	- [x] get/set on Preferences doesn't work the same (e.g. when setting database folder)
+	- [x] Setting geometry node modifier inputs has changed.
 - [ ] [[Path Visualization]]
 - [ ] Replace custom properties with new event system. This is simpler, and allows us to defer complex operations -> safer.
 
 
 ## Done
 
-- [ ] Update to Blender 5.2
-	- [x] fcurve access has changes
-	- [x] get/set on Preferences doesn't work the same (e.g. when setting database folder)
-	- [x] Setting geometry node modifier inputs has changed.
 
 
 
