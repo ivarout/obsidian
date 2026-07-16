@@ -46,7 +46,7 @@ kanban-plugin: board
 	ReferenceError: StructRNA of type Scene has been removed
 	<details>
 - [ ] Make Global visualization settings more centralized, have local override options
-- [ ] Use days and seconds since 1970-01-01 for time everywhere.
+- [ ] Use days and seconds since 1970-01-01 for time everywhere. Maybe we can still store a simple string, and just have set_transform or something.
 
 
 ## In Progress
