@@ -52,6 +52,9 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] Remove old Event System. Instead create optional log function for new EventContext class.
+	- [ ] detecting effecting events.
+	- [ ] Add some basic logging too
+	- [ ] make distinction between ui and occurence events (check gemini for a good name)
 - [ ] Update to Blender 5.2
 	- [x] fcurve access has changes
 	- [ ] keyframe access in path length should be updated
