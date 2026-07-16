@@ -10,6 +10,7 @@ kanban-plugin: board
 - [ ] Have emission strength reduced for vertices along path that are older.
 - [ ] Add smoothing to path curve in geometry node
 - [ ] Fix the jaggedness when playing animation (blender using temporal anti-aliasing)
+- [ ] Have a lower mesh (hidden) for terrain and buildings that is used for the coverage cutouts.
 
 
 ## Should Do
@@ -52,19 +53,23 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Remove old Event System. Instead create optional log function for new EventContext class.
-	- [ ] detecting effecting events.
-	- [ ] make distinction between ui and occurence events (check gemini for a good name)
+- [ ] Add logging to new event system
+	- [ ] Add log function to simulationEvents.
+	- [ ] In Run simulation operator, log the events.
+- [ ] Replace custom properties with new event system. This is simpler, and allows us to defer complex operations -> safer.
+	- [ ] how to implement this for property collection though...
 - [ ] Update to Blender 5.2
 	- [x] fcurve access has changes
 	- [ ] keyframe access in path length should be updated
 	- [x] get/set on Preferences doesn't work the same (e.g. when setting database folder)
 	- [x] Setting geometry node modifier inputs has changed.
-- [ ] Replace custom properties with new event system. This is simpler, and allows us to defer complex operations -> safer.
 
 
 ## Done
 
+- [ ] Remove old Event System. Instead create optional log function for new EventContext class.
+	- [x] detecting effecting events.
+	- [x] make distinction between ui and occurence events (check gemini for a good name)
 
 
 

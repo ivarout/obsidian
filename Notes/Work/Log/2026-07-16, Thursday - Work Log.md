@@ -10,4 +10,6 @@
 Replaced effector entity interactions with new event system.
 ## Brain Dump
 
-Maybe we need to add more event stages in CPVT, so we can control the order a bit better, like effectors responding to detectors.
+~~Maybe we need to add more event stages in CPVT, so we can control the order a bit better, like effectors responding to detectors. -> done~~
+
+We need to think about how to implement logging. I guess simulation events are ones that need to be logged when logging is enabled. Something like Run simulation should trigger the creation of such a log.
