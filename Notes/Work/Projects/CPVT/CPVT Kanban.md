@@ -46,6 +46,7 @@ kanban-plugin: board
 	<details>
 - [ ] Remove old Event System. Instead create optional log function for new EventContext class.
 - [ ] Make Global visualization settings more centralized, have local override options
+- [ ] Use days and seconds since 1970-01-01 for time everywhere.
 
 
 ## In Progress
