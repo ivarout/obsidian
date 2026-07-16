@@ -27,6 +27,7 @@ kanban-plugin: board
 
 - [ ] have refresh function that recalculates height wrt ground vertex attribute for paths
 - [ ] going back in time with 2d coverage following drone, still not entirely fixed, or is it just a resolution thingy?
+- [ ] [[Path Visualization]]
 - [ ] Insert keyframe, check logic on when to add keyframe, get_keyframes_location didn't like it if there are more keyframes for x than e.g. z
 - [ ] Fix 2d coverage plane altitude. Altitude is not set immediately when adding.
 - [ ] SAPIENT import edge nodes never get a name
@@ -44,19 +45,18 @@ kanban-plugin: board
 	               ^^^^^^^^^^^^^^^^^^^
 	ReferenceError: StructRNA of type Scene has been removed
 	<details>
-- [ ] Remove old Event System. Instead create optional log function for new EventContext class.
 - [ ] Make Global visualization settings more centralized, have local override options
 - [ ] Use days and seconds since 1970-01-01 for time everywhere.
 
 
 ## In Progress
 
+- [ ] Remove old Event System. Instead create optional log function for new EventContext class.
 - [ ] Update to Blender 5.2
 	- [x] fcurve access has changes
 	- [ ] keyframe access in path length should be updated
 	- [x] get/set on Preferences doesn't work the same (e.g. when setting database folder)
 	- [x] Setting geometry node modifier inputs has changed.
-- [ ] [[Path Visualization]]
 - [ ] Replace custom properties with new event system. This is simpler, and allows us to defer complex operations -> safer.
 
 
