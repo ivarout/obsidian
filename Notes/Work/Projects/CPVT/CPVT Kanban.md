@@ -47,13 +47,13 @@ kanban-plugin: board
 	<details>
 - [ ] Make Global visualization settings more centralized, have local override options
 - [ ] Use days and seconds since 1970-01-01 for time everywhere. Maybe we can still store a simple string, and just have set_transform or something.
+- [ ] Create new way to log events to a file (such as DetectingEntityEvent). Maybe we should store the logging in the event class? by adding a log function. If not present, just create a json from the present attributes
 
 
 ## In Progress
 
 - [ ] Remove old Event System. Instead create optional log function for new EventContext class.
 	- [ ] detecting effecting events.
-	- [ ] Add some basic logging too
 	- [ ] make distinction between ui and occurence events (check gemini for a good name)
 - [ ] Update to Blender 5.2
 	- [x] fcurve access has changes
