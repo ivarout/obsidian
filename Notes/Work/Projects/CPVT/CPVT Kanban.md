@@ -26,14 +26,17 @@ kanban-plugin: board
 
 ## Must Do
 
+- [ ] Replace custom properties with new event system. This is simpler, and allows us to defer complex operations -> safer.
+	- [ ] how to implement this for property collection though...
+- [ ] Add logging to new event system
+	- [ ] Add log function to simulationEvents.
+	- [ ] In Run simulation/Export Events operator, log the events.
 - [ ] have refresh function that recalculates height wrt ground vertex attribute for paths
 - [ ] going back in time with 2d coverage following drone, still not entirely fixed, or is it just a resolution thingy?
-- [ ] [[Path Visualization]]
 - [ ] Insert keyframe, check logic on when to add keyframe, get_keyframes_location didn't like it if there are more keyframes for x than e.g. z
 - [ ] Fix 2d coverage plane altitude. Altitude is not set immediately when adding.
 - [ ] SAPIENT import edge nodes never get a name
 - [ ] SAPIENT we get lots of drone objects, maybe purge every now and then?
-- [ ] Line to target visualization
 - [ ] <details>
 	<summary>bug when changing playback speed (maybe cuz I'm working in very messy file?)</summary>
 	Traceback (most recent call last):
@@ -48,16 +51,12 @@ kanban-plugin: board
 	<details>
 - [ ] Make Global visualization settings more centralized, have local override options
 - [ ] Use days and seconds since 1970-01-01 for time everywhere. Maybe we can still store a simple string, and just have set_transform or something.
-- [ ] Create new way to log events to a file (such as DetectingEntityEvent). Maybe we should store the logging in the event class? by adding a log function. If not present, just create a json from the present attributes
+- [ ] Line to target visualization
 
 
 ## In Progress
 
-- [ ] Replace custom properties with new event system. This is simpler, and allows us to defer complex operations -> safer.
-	- [ ] how to implement this for property collection though...
-- [ ] Add logging to new event system
-	- [ ] Add log function to simulationEvents.
-	- [ ] In Run simulation operator, log the events.
+- [ ] [[Path Visualization]]
 - [ ] Update to Blender 5.2
 	- [x] fcurve access has changes
 	- [ ] keyframe access in path length should be updated
