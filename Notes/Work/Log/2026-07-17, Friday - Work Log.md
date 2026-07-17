@@ -1,7 +1,11 @@
 #work
 ## To Do
 
-- [ ] 
+- [ ] fix last interpolated point on path visualization
+- [ ] Properly update line radius when global line radius updates
+- [ ] Same for stride...
+- [ ] Have a local override
+- [ ] Object scale should also have an override option.
 ## Wrap-Up
 
 
