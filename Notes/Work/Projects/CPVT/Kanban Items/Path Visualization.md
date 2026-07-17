@@ -12,3 +12,8 @@ As a vertex attribute, we store birthframe, so we know when to show a specific v
 - [ ] store distance since start as vertex attribute, so we can show distance travelled and distance to end.
 - [ ] (optional) Use to common click map operator
 - [ ] Would be nice to allow for global settings with an optional local override
+
+## Geometry Nodes
+- [ ] extruded point at the end can look janky sometimes...
+- [ ] Propertly update all geometry node modifiers, e.g. when updating global line radius. We want to keep local overrides though maybe...
+- [ ] 
