@@ -53,11 +53,11 @@ kanban-plugin: board
 
 ## In Progress
 
+- [ ] Replace custom properties with new event system. This is simpler, and allows us to defer complex operations -> safer.
+	- [ ] how to implement this for property collection though...
 - [ ] Add logging to new event system
 	- [ ] Add log function to simulationEvents.
 	- [ ] In Run simulation operator, log the events.
-- [ ] Replace custom properties with new event system. This is simpler, and allows us to defer complex operations -> safer.
-	- [ ] how to implement this for property collection though...
 - [ ] Update to Blender 5.2
 	- [x] fcurve access has changes
 	- [ ] keyframe access in path length should be updated
