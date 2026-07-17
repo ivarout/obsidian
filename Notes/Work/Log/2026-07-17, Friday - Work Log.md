@@ -1,7 +1,7 @@
 #work
 ## To Do
 
-- [ ] fix last interpolated point on path visualization
+- [ ] fix last interpolated point on path visualization (mostly done, just fix drone direction...)
 - [ ] Line radius and stride implementation (global and local), we can put this in the same file.
 ## Wrap-Up
 
