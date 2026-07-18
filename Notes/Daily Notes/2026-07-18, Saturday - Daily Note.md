@@ -5,6 +5,7 @@
 - [x] run
 - [ ] set up winapps for whatsapp (also ms office)
 - [x] check and buy e-reader for chiho
+- [ ] check ways to increase testotoron
 - [ ] 
 ## Brain Dump
 
