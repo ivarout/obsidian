@@ -8,6 +8,7 @@
 - 
 - Check of een geen verkoopboete is, als ik bijvoorbeeld over 5 jaar naar japan verhuis.
 - Check welke documenten nodig 
+- Wat kost een overlijdensrisico (gebonden aan de hypotheek) al mijn vrouw geen inkomen heeft, en willen we dit wel?
 ###  Belangrijke waarschuwing: Voorkom overdrachtsbelasting!
 
 Als je zomaar 50% van een huis overdraagt aan iemand waarmee je niet getrouwd bent (of als je de verkeerde route kiest bij de notaris), kan de Belastingdienst dit zien als de verkoop van een half huis. Je vrouw zou dan **overdrachtsbelasting** moeten betalen over haar helft.
