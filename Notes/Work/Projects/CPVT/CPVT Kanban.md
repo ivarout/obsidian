@@ -22,6 +22,7 @@ kanban-plugin: board
 - [ ] Enable bloom (use compositor) in distribution package
 - [ ] global target parameter logic too complicated, with locking etc. Should make this easier
 - [ ] Defer subscriptions to Subscribable property. or have the option at least.
+- [ ] Have geometry node modifier for relationship line, e.g. detector to target
 
 
 ## Must Do
@@ -52,6 +53,7 @@ kanban-plugin: board
 - [ ] Make Global visualization settings more centralized, have local override options
 - [ ] Use days and seconds since 1970-01-01 for time everywhere. Maybe we can still store a simple string, and just have set_transform or something.
 - [ ] Line to target visualization
+- [ ] SAPIENT path bug: when realtime if off, edge node object and  relationship line still updates
 
 
 ## In Progress
