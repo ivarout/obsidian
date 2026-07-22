@@ -4,6 +4,7 @@
  - [x] Add local color override option (use get_transform)
  - [x] Add "use selection handlers" option to the addon settings
  - [x] Add dev options again.
+ - [ ] See if we can simplify coverage view implementations (using the new event-subscription system)
  - [ ] use color override in coverage views
  - [ ] use 'set_string_transform' for setting paths. 
 - [ ] fix bug with sapient when jumping to frame 
