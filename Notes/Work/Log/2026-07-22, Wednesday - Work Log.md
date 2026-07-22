@@ -9,8 +9,8 @@
  - [x] Removed entity.is_active and entity_is_disabled, use the net get_transform function for rna properties, which is much easier to implement.
  - [ ] See if we can simplify coverage view implementations (using the new event-subscription system)
 	 - [ ] move more stuff to base class
-	 - [ ] use get/set_transform for view_group_id
-	 - [ ] use get/set_transform for name_ui
+	 - [x] use get/set_transform for view_group_id
+	 - [x] use get/set_transform for name_ui
  - [ ] use color override in coverage views
  - [x] use get_transform for entity.disabled and entity.active so we don't need the is_disabled and is_active properties anymore.
  - [ ] we can use the new get_transform, set_transform for much cleaner implementations of global/local target and everything that follows either global or local settings.
