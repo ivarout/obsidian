@@ -5,6 +5,9 @@
  - [x] Add "use selection handlers" option to the addon settings
  - [x] Add dev options again.
  - [ ] See if we can simplify coverage view implementations (using the new event-subscription system)
+	 - [ ] move more stuff to base class
+	 - [ ] use get/set_transform for view_group_id
+	 - [ ] use get/set_transform for name_ui
  - [ ] use color override in coverage views
  - [ ] use 'set_string_transform' for setting paths. 
 - [ ] fix bug with sapient when jumping to frame 
