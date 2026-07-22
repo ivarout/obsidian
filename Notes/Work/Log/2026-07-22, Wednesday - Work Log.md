@@ -25,6 +25,8 @@
 
 Continue with cleaning up the coverage views and supporting the entity color override option. We should look into using get_transform more for global properties like target and altitude.
 
+First thing, update material system ->
+
 First thing to do, is check subscriptions to color in the coverage_base.py file. Redetermine how to apply materials etc. One material per entity, or store every possible color? will become slow, so just one material per view object and entity please.
 ## Brain Dump
 
