@@ -23,7 +23,7 @@
 
 ## Wrap-Up
 
-Continue with cleaning up the coverage views and supporting the entity color override option.
+Continue with cleaning up the coverage views and supporting the entity color override option. We should look into using get_transform more for global properties like target and altitude.
 ## Brain Dump
 
 Use 'area.tag_redraw' on properties window if it doesn't properly update.
