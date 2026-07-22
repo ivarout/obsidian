@@ -5,6 +5,8 @@
  - [x] Add "use selection handlers" option to the addon settings
  - [x] Add dev options again.
  - [x] removed 'collection' entity, there's no point really. Just support use platform entity (and implement custom relationship lines with geometry nbodes)
+ - [x] big overhaul to 'entity' class, replacing many update function with emitting event, which is much more flexible, and probably safer
+ - [x] Removed entity.is_active and entity_is_disabled, use the net get_transform function for rna properties, which is much easier to implement.
  - [ ] See if we can simplify coverage view implementations (using the new event-subscription system)
 	 - [ ] move more stuff to base class
 	 - [ ] use get/set_transform for view_group_id
