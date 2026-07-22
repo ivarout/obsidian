@@ -1,6 +1,6 @@
 #work
 ## To Do
- - [ ] Add local scale override option (use get_transform)
+ - [x] Add local scale override option (use get_transform)
  - [ ] Add local color override option (use get_transform)
  - [ ] use 'set_string_transform' for setting paths. 
 - [ ] fix bug with sapient when jumping to frame 
