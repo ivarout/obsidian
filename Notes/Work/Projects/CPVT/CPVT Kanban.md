@@ -11,6 +11,7 @@ kanban-plugin: board
 - [ ] Add smoothing to path curve in geometry node
 - [ ] Fix the jaggedness when playing animation (blender using temporal anti-aliasing)
 - [ ] Have a lower mesh (hidden) for terrain and buildings that is used for the coverage cutouts.
+- [ ] Also adjust color of icons on the fly
 
 
 ## Should Do
@@ -23,6 +24,7 @@ kanban-plugin: board
 - [ ] global target parameter logic too complicated, with locking etc. Should make this easier
 - [ ] Defer subscriptions to Subscribable property. or have the option at least.
 - [ ] Have geometry node modifier for relationship line, e.g. detector to target
+- [ ] Have any number of teams
 
 
 ## Must Do
@@ -50,7 +52,6 @@ kanban-plugin: board
 	               ^^^^^^^^^^^^^^^^^^^
 	ReferenceError: StructRNA of type Scene has been removed
 	<details>
-- [ ] Make Global visualization settings more centralized, have local override options
 - [ ] Use days and seconds since 1970-01-01 for time everywhere. Maybe we can still store a simple string, and just have set_transform or something.
 - [ ] Line to target visualization
 - [ ] SAPIENT path bug: when realtime if off, edge node object and  relationship line still updates
@@ -58,6 +59,10 @@ kanban-plugin: board
 
 ## In Progress
 
+- [ ] Make Global visualization settings more centralized, have local override options
+	- [x] local scale override
+	- [x] local color override
+	- [ ] use entity color in views, if override is True
 - [ ] [[Path Visualization]]
 - [ ] Update to Blender 5.2
 	- [x] fcurve access has changes
