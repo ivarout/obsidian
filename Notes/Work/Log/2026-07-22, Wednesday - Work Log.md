@@ -9,6 +9,7 @@
 	 - [ ] use get/set_transform for view_group_id
 	 - [ ] use get/set_transform for name_ui
  - [ ] use color override in coverage views
+ - [ ] we can use the new get_transform, set_transform for much cleaner implementations of global/local target and everything that follows either global or local settings.
  - [ ] use 'set_string_transform' for setting paths. 
 - [ ] fix bug with sapient when jumping to frame 
 - [ ] Fix bug with line radius to ka not applying immediately
