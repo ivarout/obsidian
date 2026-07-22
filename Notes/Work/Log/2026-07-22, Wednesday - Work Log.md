@@ -1,6 +1,7 @@
 #work
 ## To Do
- - [ ] Add local scale override option
+ - [ ] Add local scale override option (use get_transform, set_transform)
+ - [ ] use 'set_string_transform' for setting paths. 
 - [ ] fix bug with sapient when jumping to frame 
 - [ ] Fix bug with line radius to ka not applying immediately
 - [ ] Work on path visualization user defined paths
