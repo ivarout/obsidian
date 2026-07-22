@@ -4,6 +4,7 @@
  - [x] Add local color override option (use get_transform)
  - [x] Add "use selection handlers" option to the addon settings
  - [x] Add dev options again.
+ - [x] removed 'collection' entity, there's no point really. Just support use platform entity (and implement custom relationship lines with geometry nbodes)
  - [ ] See if we can simplify coverage view implementations (using the new event-subscription system)
 	 - [ ] move more stuff to base class
 	 - [ ] use get/set_transform for view_group_id
