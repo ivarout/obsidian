@@ -1,7 +1,9 @@
 #work
 ## To Do
  - [x] Add local scale override option (use get_transform)
- - [ ] Add local color override option (use get_transform)
+ - [x] Add local color override option (use get_transform)
+ - [ ] Add developer options again
+ - [ ] use color override in coverage views
  - [ ] use 'set_string_transform' for setting paths. 
 - [ ] fix bug with sapient when jumping to frame 
 - [ ] Fix bug with line radius to ka not applying immediately
