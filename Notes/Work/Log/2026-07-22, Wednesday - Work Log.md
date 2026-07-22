@@ -12,7 +12,7 @@
 	 - [ ] use get/set_transform for view_group_id
 	 - [ ] use get/set_transform for name_ui
  - [ ] use color override in coverage views
- - [ ] use get_transform for entity.disabled and entity.active so we don't need the is_disabled and is_active properties anymore.
+ - [x] use get_transform for entity.disabled and entity.active so we don't need the is_disabled and is_active properties anymore.
  - [ ] we can use the new get_transform, set_transform for much cleaner implementations of global/local target and everything that follows either global or local settings.
  - [ ] use 'set_string_transform' for setting paths. 
 - [ ] fix bug with sapient when jumping to frame 
@@ -23,7 +23,7 @@
 
 ## Wrap-Up
 
-
+Continue with cleaning up the coverage views and supporting the entity color override option.
 ## Brain Dump
 
 Use 'area.tag_redraw' on properties window if it doesn't properly update.
