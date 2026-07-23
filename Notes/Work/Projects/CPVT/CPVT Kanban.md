@@ -23,8 +23,7 @@ kanban-plugin: board
 - [ ] Enable bloom (use compositor) in distribution package
 - [ ] global target parameter logic too complicated, with locking etc. Should make this easier
 - [ ] Defer subscriptions to Subscribable property. or have the option at least.
-- [ ] Have geometry node modifier for relationship line, e.g. detector to target
-- [ ] Have any number of teams
+- [ ] Have any number of teams, make color per team adjustable
 
 
 ## Must Do
@@ -55,6 +54,7 @@ kanban-plugin: board
 - [ ] Use days and seconds since 1970-01-01 for time everywhere. Maybe we can still store a simple string, and just have set_transform or something.
 - [ ] Line to target visualization
 - [ ] SAPIENT path bug: when realtime if off, edge node object and  relationship line still updates
+- [ ] Have geometry node modifier for relationship line, e.g. detector to target
 
 
 ## In Progress
@@ -63,6 +63,7 @@ kanban-plugin: board
 	- [x] local scale override
 	- [x] local color override
 	- [ ] use entity color in views, if override is True
+	- [ ] Have per entity override for coverage view settings.
 - [ ] [[Path Visualization]]
 - [ ] Update to Blender 5.2
 	- [x] fcurve access has changes
