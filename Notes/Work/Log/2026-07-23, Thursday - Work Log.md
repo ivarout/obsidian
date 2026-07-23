@@ -2,7 +2,7 @@
 ## To Do
 
  - [x] Make material implementation simpler, and remove 'driver', we now have frame time node in nodes.
- - [ ] Use event-subscription system for updates to aoe coverage and range
+ - [ ] Use event-subscription system for updates to aoe coverage and range (see coverage_base.py)
  - [ ] See if we can simplify coverage view implementations (using the new event-subscription system)
 	 - [ ] move more stuff to base class
 	 - [ ] put quality setting in view itself
