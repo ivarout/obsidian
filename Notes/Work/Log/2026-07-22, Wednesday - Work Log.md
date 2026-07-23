@@ -14,7 +14,7 @@
  - [ ] use color override in coverage views
  - [x] use get_transform for entity.disabled and entity.active so we don't need the is_disabled and is_active properties anymore.
  - [ ] we can use the new get_transform, set_transform for much cleaner implementations of global/local target and everything that follows either global or local settings.
- - [ ] use 'set_string_transform' for setting paths. 
+- [x] use 'set_string_transform' for setting paths. 
 - [ ] fix bug with sapient when jumping to frame 
 - [ ] Fix bug with line radius to ka not applying immediately
 - [ ] Work on path visualization user defined paths
