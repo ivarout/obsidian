@@ -1,9 +1,10 @@
 #work
 ## To Do
 
- - [ ] Make material implementation simpler, and remove 'driver', we now have frame time node in nodes.
+ - [x] Make material implementation simpler, and remove 'driver', we now have frame time node in nodes.
  - [ ] See if we can simplify coverage view implementations (using the new event-subscription system)
 	 - [ ] move more stuff to base class
+	 - [ ] put quality setting in view itself
 	 - [x] use get/set_transform for view_group_id
 	 - [x] use get/set_transform for name_ui
  - [ ] use color override in coverage views
