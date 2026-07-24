@@ -1,7 +1,12 @@
 - [ ] ichiko aobo
-	- [ ] qp
+	- [x] qp
+	- [ ] 0
 - [ ] The beatles albums
 	- [ ] red album 2cd (25 euro ish)
 	- [ ] blue album 2cd (15 euro ish)
 - [ ] racoon
 	- [ ] spijt is iets voor later
+- [ ] nujabes
+	- [ ] modal soul
+	- [ ] luv sic hexalogy
+	- [ ] metaphorical music
