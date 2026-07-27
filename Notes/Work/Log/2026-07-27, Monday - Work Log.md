@@ -1,0 +1,20 @@
+#work
+## To Do
+
+ - [ ] Use event-subscription system for updates to aoe coverage and range (see coverage_base.py)
+ - [ ] Store time as seconds since 19700101 (unixtime) should be good until 2038...
+ - [ ] See if we can simplify coverage view implementations (using the new event-subscription system)
+	 - [ ] move more stuff to base class
+	 - [ ] put quality setting in view itself
+ - [ ] use color override in coverage views
+ - [ ] we can use the new get_transform, set_transform for much cleaner implementations of global/local target and everything that follows either global or local settings.
+- [ ] fix bug with sapient when jumping to frame 
+- [ ] Fix bug with line radius to ka not applying immediately
+- [ ] Work on path visualization user defined paths
+- [ ] fix path remaining distance in ui
+- [ ] new scene time implementation
+## Wrap-Up
+
+
+## Brain Dump
+
