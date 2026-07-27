@@ -1,8 +1,8 @@
 #work
 ## To Do
 
+ - [ ] Update time classes: store start and current time in scene, emit Events when properties are updated.
  - [ ] Use event-subscription system for updates to aoe coverage and range (see coverage_base.py)
- - [ ] Store time as seconds since 19700101 (unixtime) should be good until 2038...
  - [ ] See if we can simplify coverage view implementations (using the new event-subscription system)
 	 - [ ] move more stuff to base class
 	 - [ ] put quality setting in view itself
