@@ -2,8 +2,8 @@
 
 ## To Do
 
-- [ ] Check docking station for laptop
-- [ ] setup gitsync on phone for obsidian
+- [x] Check docking station for laptop. nvm, too expensive
+- [x] setup gitsync on phone for obsidian. Seems to work, the phone app doesn't automatically download git extension, which is good, cuz we only want to use this extension on desktop i guess.
 - [ ] 
 ## Brain Dump
 
