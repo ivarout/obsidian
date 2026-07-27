@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - file.tags.contains("todo")
+        - '!file.path.contains("Archive")'
     order:
       - file.name
       - file.ctime
