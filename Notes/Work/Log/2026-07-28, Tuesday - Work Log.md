@@ -1,9 +1,12 @@
 #work
 ## To Do
 
-- [ ] Do we need to update target parameters in coverage object subscription to aoe range?
-- [ ] Fix changing of range model.
-- [ ] immediatetly apply range after adding entity.
+- [x] Do we need to update target parameters in coverage object subscription to aoe range?
+- [x] Create event for when range model changes (so we can update required target parameters)
+- [x] Fix changing of range model.
+- [ ] Update 'target_global' implementation
+- [ ] check updates when changing target parameters in view, or in entity
+- [ ] immediately apply range after adding entity.
 ## Wrap-Up
 
 
