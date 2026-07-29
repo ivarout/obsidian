@@ -1,6 +1,7 @@
 #work
 ## To Do
 
+- [x] flashing material should have same base color in detector etc.
 - [ ] Properly updates views when target properties/parameters change.
 	- [x] When selecting database, immediately update target_types as well
 - [ ] Fix geometry nodes 
