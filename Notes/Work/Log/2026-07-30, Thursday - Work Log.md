@@ -10,6 +10,7 @@
 - [ ] Fix bake operations
 - [x] show units in the target properties in the view panel
 - [ ] work on scene time
+- [ ] fix geometry nodes for 3D and 2D views
 ## Wrap-Up
 
 
