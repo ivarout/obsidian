@@ -60,6 +60,7 @@ kanban-plugin: board
 
 ## In Progress
 
+- [ ] Defer geometry node updates (quality settings), to avoid redundant calls
 - [ ] Make Global visualization settings more centralized, have local override options
 	- [x] local scale override
 	- [x] local color override
