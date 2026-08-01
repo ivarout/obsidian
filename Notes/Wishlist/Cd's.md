@@ -1,6 +1,6 @@
 - [ ] ichiko aobo
 	- [x] qp
-	- [ ] 0
+	- [x] 0
 - [ ] The beatles albums
 	- [ ] red album 2cd (25 euro ish)
 	- [ ] blue album 2cd (15 euro ish)
