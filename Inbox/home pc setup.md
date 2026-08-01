@@ -4,7 +4,7 @@ Have some panel, probably in home assistant, that shows which pcs are currently 
 ## Chiho's desktop
 
 Build a pc with leftover parts, a ryzen 5600, and a rx 6600 or similar.
-This will also contain raid 1 backup drives (currently 2 x 2tb).
+This will also contain raid 1 backup drives (currently 2 x 2tb). Maybe we don't need this in raid 1 config, maybe just prefer space...
 ## Server
 
 Server will run 24/7
