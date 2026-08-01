@@ -61,6 +61,8 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] Defer geometry node updates (quality settings), to avoid redundant calls
+	- update to quality settings emits event UpdateCoverageQuality. Coverage2d and Coverage3d will both react to this (individually)
+	- in Coverage2D and Coverage3D, define \_update_quality_setting separately, we may not want exact same setting for 2D and 3D.
 - [ ] Make Global visualization settings more centralized, have local override options
 	- [x] local scale override
 	- [x] local color override
