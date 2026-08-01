@@ -11,6 +11,6 @@
 - [ ] setup keepass2android using nextcloud
 ## Brain Dump
 
-
+Every 5 minutes, check if the light should be turned off. If no motion has been detected for the past 5 minutes, turn it off (but only if the light has been on for at least 5 minutes).
 ## Journal
 
