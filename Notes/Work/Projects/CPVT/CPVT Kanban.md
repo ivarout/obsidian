@@ -12,7 +12,6 @@ kanban-plugin: board
 - [ ] Fix the jaggedness when playing animation (blender using temporal anti-aliasing)
 - [ ] Have a lower mesh (hidden) for terrain and buildings that is used for the coverage cutouts.
 - [ ] Also adjust color of icons on the fly
-- [ ] Build coverage shapes parametericly
 
 
 ## Should Do
@@ -60,13 +59,10 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Defer geometry node updates (quality settings), to avoid redundant calls
-	- update to quality settings emits event UpdateCoverageQuality. Coverage2d and Coverage3d will both react to this (individually)
-	- in Coverage2D and Coverage3D, define \_update_quality_setting separately, we may not want exact same setting for 2D and 3D.
 - [ ] Make Global visualization settings more centralized, have local override options
 	- [x] local scale override
 	- [x] local color override
-	- [x] use entity color in views, if override is True
+	- [ ] use entity color in views, if override is True
 	- [ ] Have per entity override for coverage view settings.
 - [ ] [[Path Visualization]]
 - [ ] Update to Blender 5.2
