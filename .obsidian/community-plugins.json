@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "obsidian-kanban",
-  "quickadd"
+  "quickadd",
+  "kanban-bases-view",
+  "obsidian-task-archiver"
 ]

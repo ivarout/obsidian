@@ -1,5 +1,7 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox",
-  "attachmentFolderPath": "_Attachments"
+  "attachmentFolderPath": "_Attachments",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

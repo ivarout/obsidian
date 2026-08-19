@@ -1,0 +1,282 @@
+views:
+  - type: kanban-view
+    name: Kanban View
+    filters:
+      and:
+        - file.folder == this.file.folder + "/Notes"
+    order:
+      - file.name
+    columnOrders:
+      file.file:
+        - Archive/Daily Notes/2026-03-12 Daily Note.md
+        - Archive/Daily Notes/2026-05-05 Daily Note.md
+        - Archive/Daily Notes/2026-05-07 Daily Note.md
+        - Archive/Daily Notes/2026-05-11 Daily Note.md
+        - Archive/Inbox/Mee naar japan.md
+        - Archive/Inbox/Moving Out.md
+        - Archive/Inbox/Netherlands Packing List & To Do.md
+        - Archive/To-Dos/Fix Wireguard and Clean other containers.md
+        - Archive/To-Dos/Samsung s26 stuff.md
+        - Archive/To-Dos/White day.md
+        - Archive/To-Dos/ufw why does it disable.md
+        - Archive/Travel/Journal/Mt Rishiri.md
+        - Archive/Travel/Planning/Planetarium Nakano.md
+        - Archive/Wishlist/Bureau.md
+        - Archive/Wishlist/Gamesir G8 plus.md
+        - Archive/Wishlist/Good Wifi 7 router.md
+        - Archive/Wishlist/Minisforum Deg1 eGPU Dock.md
+        - Archive/Wishlist/Monitor arm.md
+        - Archive/Wishlist/Phone.md
+        - Archive/Wishlist/Smartwatch active 2.md
+        - Archive/Wishlist/airtank for diving-snorkling.md
+        - Archive/Wishlist/fanny pack for running.md
+        - Archive/Work/Meetings & Events/Sci 353 to do befor kalkar and Tie.md
+        - Archive/Work/TIE26/2025 05 14.md
+        - Archive/Work/TIE26/2026-05-09 CPVT Thoughts while on flight.md
+        - Archive/Work/TIE26/TIE 26 2025.md
+        - Archive/Work/TIE26/TIE26 preparation.md
+        - Archive/Work/TIE26/Tie26 05 12.md
+        - Archive/Work/TIE26/Untitled.md
+        - Inbox.base
+        - Inbox/Beehave Godot.md
+        - Inbox/Chiho naar Japan.md
+        - Inbox/Godot Sapient.md
+        - Inbox/Godot drawing areas.md
+        - Inbox/Godot selection of entities.md
+        - Inbox/Groceries.md
+        - Inbox/Hypotheekadviseur.md
+        - Inbox/Life goals.md
+        - Inbox/Music.md
+        - Inbox/Painting using bing images.md
+        - Inbox/Sea salt paper score.md
+        - Inbox/Sekai neko aruki.md
+        - Inbox/Server Setup.md
+        - Inbox/Testje123456.md
+        - Inbox/Time blocking.md
+        - Inbox/To do in oranda.md
+        - Inbox/home pc setup.md
+        - Inbox/test.md
+        - Inbox/testje.md
+        - Inbox/vgb.md
+        - Notes/Bucket List/Cursus skydiven.md
+        - Notes/Bucket List/Road Trip in Japan.md
+        - Notes/Bucket List/drumles.md
+        - Notes/Daily Notes/2026-06-04, Thursday - Daily Note.md
+        - Notes/Daily Notes/2026-06-05, Friday - Daily Note.md
+        - Notes/Daily Notes/2026-06-06, Saturday - Daily Note.md
+        - Notes/Daily Notes/2026-06-07, Sunday - Daily Note.md
+        - Notes/Daily Notes/2026-07-05, Sunday - Daily Note.md
+        - Notes/Daily Notes/2026-07-06, Monday - Daily Note.md
+        - Notes/Daily Notes/2026-07-07, Tuesday - Daily Note.md
+        - Notes/Daily Notes/2026-07-08, Wednesday - Daily Note.md
+        - Notes/Daily Notes/2026-07-13, Monday - Daily Note.md
+        - Notes/Daily Notes/2026-07-16, Thursday - Daily Note.md
+        - Notes/Daily Notes/2026-07-18, Saturday - Daily Note.md
+        - Notes/Daily Notes/2026-07-20, Monday - Daily Note.md
+        - Notes/Daily Notes/2026-07-23, Thursday - Daily Note.md
+        - Notes/Daily Notes/2026-07-27, Monday - Daily Note.md
+        - Notes/Daily Notes/2026-08-01, Saturday - Daily Note.md
+        - Notes/Daily Notes/2026-08-19, Wednesday - Daily Note.md
+        - Notes/How-Tos/Arch setup.md
+        - Notes/How-Tos/Docker containers.md
+        - Notes/How-Tos/git.md
+        - Notes/How-Tos/ufw.md
+        - Notes/Other/Books Read.md
+        - Notes/Other/Gift Ideas/Chiho.md
+        - Notes/Other/Gift Ideas/Loek.md
+        - Notes/Other/Godot/C++ ECS.md
+        - Notes/Other/Godot/Entt.md
+        - Notes/Other/hypotheek.md
+        - Notes/Recipes/Kinoko Pasta.md
+        - Notes/Recipes/Lentil Soup.md
+        - Notes/Recipes/Okonomiyaki.md
+        - Notes/To-Dos/Gitea.md
+        - Notes/To-Dos/Leftover PC build (400 euro).md
+        - Notes/To-Dos/MS Office in Linux.md
+        - Notes/To-Dos/Movies To Watch.md
+        - Notes/To-Dos/Password update.md
+        - Notes/To-Dos/Plan My Future.md
+        - Notes/To-Dos/Rust.md
+        - Notes/To-Dos/Seagate partition change.md
+        - Notes/To-Dos/Set up DDNS or cloudfared.md
+        - Notes/To-Dos/Set up nginx with wireguard.md
+        - Notes/To-Dos/Use encryption everywhere.md
+        - Notes/To-Dos/clean up nextcloud photos.md
+        - Notes/Travel/Planning/2026-06 Trip Japan.md
+        - Notes/Travel/Planning/2026-09 Trip Pyrenees.md
+        - Notes/Travel/Planning/Camping Checklist.md
+        - Notes/Travel/Planning/Day trip ideas.md
+        - Notes/Weekly Notes/2026-07 - Weekly Note 28.md
+        - Notes/Wishlist/AMD GPU RX 9070 (non XT).md
+        - Notes/Wishlist/Aer City Pack Pro 2.md
+        - Notes/Wishlist/Anker Nano Charging Dock.md
+        - Notes/Wishlist/Blu-rays.md
+        - Notes/Wishlist/Books To Read.md
+        - Notes/Wishlist/Cd's.md
+        - Notes/Wishlist/Dyson vacuum cleaner.md
+        - Notes/Wishlist/External blu-ray, dvd, cd drive.md
+        - Notes/Wishlist/Games.md
+        - Notes/Wishlist/Good Earbuds with Noise cancellation.md
+        - Notes/Wishlist/Headphones.md
+        - Notes/Wishlist/INSPELNING.md
+        - Notes/Wishlist/NanoH2 ESP.md
+        - Notes/Wishlist/Ncase m2.md
+        - Notes/Wishlist/New Mouse.md
+        - Notes/Wishlist/Noctua NH-D12L.md
+        - Notes/Wishlist/Slay the Spire Boardgame.md
+        - Notes/Wishlist/Steam controller.md
+        - Notes/Wishlist/SteelSeries Arctis Nova Pro Wireless Game Headset.md
+        - Notes/Wishlist/Tools.md
+        - Notes/Wishlist/XPOWER Electric Dust Blower.md
+        - Notes/Wishlist/air fryer.md
+        - Notes/Wishlist/beef slicer.md
+        - Notes/Wishlist/dji 04 air unit for drone.md
+        - Notes/Wishlist/dumbbells.md
+        - Notes/Wishlist/philips hue go portable table lamp.md
+        - Notes/Wishlist/wireless powerbank.md
+        - Notes/Work/Events & Meetings/C-UAS Program/2026-06-17 C-UAS Programma Overleg.md
+        - Notes/Work/Events & Meetings/C-UAS Program/20260819 - Meeting notes C-UAS programmaoverleg.md
+        - Notes/Work/Events & Meetings/C-UAS Program/SCI-353/SCI-353 Kalkar.md
+        - Notes/Work/Events & Meetings/C-UAS Program/SCI-353/Telcons/2026-07-29 SCI-353 Telcon.md
+        - Notes/Work/Events & Meetings/C-UAS Program/SCI-353/Telcons/Untitled.md
+        - Notes/Work/Log/2026-03-30, Monday - Work Log.md
+        - Notes/Work/Log/2026-06-05, Friday - Work Log.md
+        - Notes/Work/Log/2026-06-08, Monday - Work Log.md
+        - Notes/Work/Log/2026-06-09, Tuesday - Work Log.md
+        - Notes/Work/Log/2026-06-10, Wednesday - Work Log.md
+        - Notes/Work/Log/2026-06-12, Friday - Work Log.md
+        - Notes/Work/Log/2026-06-15, Monday - Work Log.md
+        - Notes/Work/Log/2026-06-16, Tuesday - Work Log.md
+        - Notes/Work/Log/2026-06-17, Wednesday - Work Log.md
+        - Notes/Work/Log/2026-06-18, Thursday - Work Log.md
+        - Notes/Work/Log/2026-07-06, Monday - Work Log.md
+        - Notes/Work/Log/2026-07-07, Tuesday - Work Log.md
+        - Notes/Work/Log/2026-07-08, Wednesday - Work Log.md
+        - Notes/Work/Log/2026-07-09, Thursday - Work Log.md
+        - Notes/Work/Log/2026-07-13, Monday - Work Log.md
+        - Notes/Work/Log/2026-07-14, Tuesday - Work Log.md
+        - Notes/Work/Log/2026-07-15, Wednesday - Work Log.md
+        - Notes/Work/Log/2026-07-16, Thursday - Work Log.md
+        - Notes/Work/Log/2026-07-17, Friday - Work Log.md
+        - Notes/Work/Log/2026-07-21, Tuesday - Work Log.md
+        - Notes/Work/Log/2026-07-22, Wednesday - Work Log.md
+        - Notes/Work/Log/2026-07-23, Thursday - Work Log.md
+        - Notes/Work/Log/2026-07-24, Friday - Work Log.md
+        - Notes/Work/Log/2026-07-27, Monday - Work Log.md
+        - Notes/Work/Log/2026-07-29, Wednesday - Work Log.md
+        - Notes/Work/Log/2026-08-03, Monday - Work Log.md
+        - Notes/Work/Log/2026-08-19, Wednesday - Work Log.md
+        - Notes/Work/Projects/CPST/Kanban.md
+        - Notes/Work/Projects/CPVT/CPVT Kanban.md
+        - Notes/Work/Projects/CPVT/Kanban Items/Path Visualization.md
+        - Notes/Work/Projects/Tracker DLLs/Ideas.md
+        - Notes/Work/Projects/Tracker DLLs/Kanban.md
+        - Notes/Work/Projects/Tracker DLLs/Kickoff.md
+        - Tests/Kanban.base
+        - Tests/Notes/Untitled.md
+        - Tests/Notes/blbla.md
+        - Tests/Notes/fdafdafdd.md
+        - Tests/Untitled Kanban.md
+        - Tests/Untitled.base
+        - To Do.base
+        - Untitled.md
+        - Wishlist.base
+        - _Attachments/1758343961364.jpg
+        - _Attachments/20260313_101954.jpg
+        - _Attachments/IMG_20250915_154213.jpg
+        - _Attachments/IMG_20250916_082722.jpg
+        - _Attachments/IMG_20250916_084012.jpg
+        - _Attachments/Pasted image 20260214144417.png
+        - _Attachments/Pasted image 20260214144945.png
+        - _Attachments/Pasted image 20260214145157.png
+        - _Attachments/Pasted image 20260214145357.png
+        - _Attachments/Pasted image 20260214145525.png
+        - _Attachments/Pasted image 20260214145526.png
+        - _Attachments/Pasted image 20260214145528.png
+        - _Attachments/Pasted image 20260214145843.png
+        - _Attachments/Pasted image 20260214150132.png
+        - _Attachments/Pasted image 20260214150454.png
+        - _Attachments/Pasted image 20260215212238.png
+        - _Attachments/Pasted image 20260301190014.png
+        - _Attachments/Pasted image 20260303134106.png
+        - _Attachments/Pasted image 20260305084943.png
+        - _Attachments/Pasted image 20260315135549.png
+        - _Attachments/Pasted image 20260405144743.png
+        - _Attachments/Pasted image 20260406125049.png
+        - _Attachments/Pasted image 20260418201515.png
+        - _Attachments/Pasted image 20260613001056.png
+        - _Attachments/Pasted image 20260616003922.png
+        - _Attachments/Pasted image 20260623081013.png
+        - _Attachments/Pasted image 20260727174936.png
+        - _Attachments/Pasted image 20260802133112.png
+        - _Attachments/TP Link Archer BE550.png
+        - _Attachments/galaxy buds 4 pro.png
+        - _Attachments/galaxy s25.png
+        - _Attachments/linzensoep.jpg
+        - _Attachments/sennheiser_650.png
+        - _Attachments/slay_the_spire_board_game.png
+        - _Attachments/sony wf-xm10005.png
+        - _Attachments/steam-controller-green.jpg
+        - _Attachments/wishlist.png
+        - _Templates/Daily Note.md
+        - _Templates/Journal.md
+        - _Templates/Kanban Note.md
+        - _Templates/Weekly Note.md
+        - _Templates/Wishlist.md
+        - _Templates/Work Log.md
+      note.tags:
+        - Uncategorized
+      note.status:
+        - Must Do
+        - in-progress
+        - Done
+        - Archived
+    cardOrders:
+      file.file: {}
+      note.tags:
+        Uncategorized:
+          - Tests/Notes/fdafdafdd.md
+          - Tests/Notes/blbla.md
+          - Tests/Notes/Untitled.md
+      "file.file\x1fnote.tags": {}
+      note.status:
+        done:
+          - Tests/Notes/fdafdafdd.md
+          - Tests/Notes/Untitled.md
+          - Tests/Notes/blbla.md
+        in-progress:
+          - Tests/Notes/blbla.md
+          - Tests/Notes/fdafdafdd.md
+        Uncategorized: []
+        Must Do:
+          - Tests/Notes/Test2.md
+        Could Do: []
+        Done:
+          - Tests/Notes/Untitled.md
+        Should Do:
+          - Tests/Notes/testsett.md
+      "note.status\x1fnote.tags": {}
+    columnColors:
+      file.file: {}
+      note.tags:
+        Uncategorized: blue
+      note.status:
+        in-progress: blue
+        done: green
+        Uncategorized: yellow
+        Must Do: red
+        Could Do: orange
+        Should Do: yellow
+        Done: green
+    groupByProperty: note.status
+    swimlaneOrders:
+      "file.file\x1fnote.tags":
+        - Uncategorized
+      "note.status\x1fnote.tags":
+        - Uncategorized
+    collapsedLanes:
+      "file.file\x1fnote.tags": []
+      "note.status\x1fnote.tags": []
+    quickAddFolder: Kanban Items
+    imageAspectRatio: 0.5
+    cardTitleProperty: note.status
