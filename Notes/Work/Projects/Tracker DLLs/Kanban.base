@@ -295,7 +295,7 @@ views:
       "file.file\x1fnote.tags": []
       "note.status\x1fnote.tags": []
       "note.status\x1fnote.tesjes": []
-    quickAddFolder: /Tests/Kanban Items
+    quickAddFolder: /Notes/Work/Projects/Tracker DLLs/Kanban Items
     imageAspectRatio: 0.5
   - type: cards
     name: View
