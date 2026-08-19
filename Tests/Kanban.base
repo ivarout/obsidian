@@ -228,6 +228,7 @@ views:
         - Uncategorized
       note.status:
         - Could Do
+        - Should Do
         - Must Do
         - in-progress
         - Done
@@ -245,14 +246,16 @@ views:
           - Tests/Notes/fdafdafdd.md
           - Tests/Notes/Untitled.md
           - Tests/Notes/blbla.md
-        in-progress: []
+        in-progress:
+          - Tests/Kanban Items/Tsest.md
         Uncategorized: []
         Must Do:
-          - Tests/Kanban Items/Untitled.md
-        Could Do:
           - Tests/Kanban Items/fdsafdsaf.md
+        Could Do:
+          - Tests/Kanban Items/fdafsda.md
+          - Tests/Kanban Items/hey joh.md
         Done:
-          - Tests/Kanban Items/Tsest.md
+          - Tests/Kanban Items/Untitled.md
         Should Do:
           - Tests/Notes/testsett.md
         Archived: []
@@ -260,8 +263,12 @@ views:
       "note.status\x1fnote.tesjes":
         "1\x1fMust Do": []
         "2\x1fin-progress": []
-        "2\x1fMust Do":
+        "2\x1fMust Do": []
+        "2\x1fDone": []
+        "1\x1fin-progress":
           - Tests/Kanban Items/Untitled.md
+        "2\x1fCould Do":
+          - Tests/Kanban Items/fdsafdsaf.md
     columnColors:
       file.file: {}
       note.tags:
@@ -290,6 +297,5 @@ views:
       "note.status\x1fnote.tesjes": []
     quickAddFolder: /Tests/Kanban Items
     imageAspectRatio: 0.5
-    swimlaneByProperty: note.tesjes
   - type: table
     name: View

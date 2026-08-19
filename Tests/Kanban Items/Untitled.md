@@ -1,4 +1,4 @@
 ---
-status: in-progress
+status: Done
 tesjes: "1"
 ---
