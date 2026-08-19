@@ -3,7 +3,7 @@ views:
     name: Kanban View
     filters:
       and:
-        - file.folder == this.file.folder + "/Notes"
+        - file.folder == this.file.folder + "/Kanban Items"
     order:
       - file.name
     columnOrders:
@@ -227,6 +227,7 @@ views:
       note.tags:
         - Uncategorized
       note.status:
+        - Could Do
         - Must Do
         - in-progress
         - Done
@@ -244,18 +245,23 @@ views:
           - Tests/Notes/fdafdafdd.md
           - Tests/Notes/Untitled.md
           - Tests/Notes/blbla.md
-        in-progress:
-          - Tests/Notes/blbla.md
-          - Tests/Notes/fdafdafdd.md
+        in-progress: []
         Uncategorized: []
         Must Do:
-          - Tests/Notes/Test2.md
-        Could Do: []
+          - Tests/Kanban Items/Untitled.md
+        Could Do:
+          - Tests/Kanban Items/fdsafdsaf.md
         Done:
-          - Tests/Notes/Untitled.md
+          - Tests/Kanban Items/Tsest.md
         Should Do:
           - Tests/Notes/testsett.md
+        Archived: []
       "note.status\x1fnote.tags": {}
+      "note.status\x1fnote.tesjes":
+        "1\x1fMust Do": []
+        "2\x1fin-progress": []
+        "2\x1fMust Do":
+          - Tests/Kanban Items/Untitled.md
     columnColors:
       file.file: {}
       note.tags:
@@ -274,9 +280,16 @@ views:
         - Uncategorized
       "note.status\x1fnote.tags":
         - Uncategorized
+      "note.status\x1fnote.tesjes":
+        - Uncategorized
+        - "2"
+        - "1"
     collapsedLanes:
       "file.file\x1fnote.tags": []
       "note.status\x1fnote.tags": []
-    quickAddFolder: .
+      "note.status\x1fnote.tesjes": []
+    quickAddFolder: /Tests/Kanban Items
     imageAspectRatio: 0.5
-    cardTitleProperty: note.status
+    swimlaneByProperty: note.tesjes
+  - type: table
+    name: View
