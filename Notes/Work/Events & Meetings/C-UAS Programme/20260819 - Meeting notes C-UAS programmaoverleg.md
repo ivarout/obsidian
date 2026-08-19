@@ -23,3 +23,4 @@ participants:
 - Jacco: Zal bij Joris kijken of er nog potjes zijn voor de afronding van CPVT.
 - Jacco: Innovation in Defense komt eraan. Mogelijk hebben we daar een stand om iets te demonstreren.
 - Christian: Voor open dag NLR, misschien gewoon een net ophangen om een drone te laten vliegen op Amsterdam terrein.
+- Jacco: MUST uses DIS, this probably has all the information we use in CPVT from SAPIENT, so maybe write some conversion layer.
