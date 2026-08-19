@@ -24,3 +24,7 @@ participants:
 - Jacco: Innovation in Defense komt eraan. Mogelijk hebben we daar een stand om iets te demonstreren.
 - Christian: Voor open dag NLR, misschien gewoon een net ophangen om een drone te laten vliegen op Amsterdam terrein.
 - Jacco: MUST uses DIS, this probably has all the information we use in CPVT from SAPIENT, so maybe write some conversion layer.
+- Jacco: Wet weerbaarheid kritieke entitieten van kracht, zal werk uit voortkomen voor drone expertise-centrum.
+- Jacco: Nieuwe kennisopbouwprogramma op 300k per jaar, veel te weinig. We moeten nadenken of we de 3 speerpunten willen aanhouden. Heb wel het idee dat elders veel budget vrij zal komen. 
+	- C-UAS loopt nog ver achter op de drones. Kennisopbouw is zeker nog zeer relevant. Maar het idee lijkt te leven dat er al producten op de markt zijn, waardoor kennisopbouw minder relevant is. Jacco is het hier zeer mee oneens.
+- Ingvar: Ik heb gaten in mijn agenda, sta zeer open voor werk. Jacco: Noted, zal ook met Joris overleggen.
