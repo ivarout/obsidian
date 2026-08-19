@@ -6,6 +6,7 @@ views:
         - file.folder == this.file.folder + "/Kanban Items"
         - status != "Archived"
     order: []
+    sort: []
     columnOrders:
       file.file:
         - Archive/Daily Notes/2026-03-12 Daily Note.md
@@ -251,12 +252,9 @@ views:
           - Tests/Kanban Items/Untitled.md
           - Tests/Kanban Items/tests 1.md
         Could Do:
-          - Tests/Kanban Items/fdsafdsaf.md
-          - Tests/Kanban Items/tests.md
+          - Notes/Work/Projects/Tracker DLLs/Kanban Items/Something.md
         Done: []
-        Should Do:
-          - Tests/Kanban Items/This is ok.md
-          - Tests/Kanban Items/Test.md
+        Should Do: []
         Archived:
           - Tests/Kanban Items/fdafsda.md
       "note.status\x1fnote.tags": {}
@@ -269,17 +267,23 @@ views:
           - Tests/Kanban Items/Untitled.md
         "2\x1fCould Do":
           - Tests/Kanban Items/fdsafdsaf.md
+      "note.status\x1fnote.archived":
+        "true\x1fCould Do":
+          - Notes/Work/Projects/Tracker DLLs/Kanban Items/Something.md
+        "true\x1fShould Do": []
+        "false\x1fShould Do":
+          - Notes/Work/Projects/Tracker DLLs/Kanban Items/Should Do Something Really.md
     columnColors:
       file.file: {}
       note.tags:
         Uncategorized: blue
       note.status:
-        in-progress: blue
         done: green
         Uncategorized: yellow
+        Could Do: yellow
+        Should Do: orange
         Must Do: red
-        Could Do: orange
-        Should Do: yellow
+        in-progress: blue
         Done: green
     groupByProperty: note.status
     swimlaneOrders:
@@ -291,10 +295,16 @@ views:
         - Uncategorized
         - "2"
         - "1"
+      "note.status\x1fnote.archived":
+        - "false"
+        - Uncategorized
+        - "true"
     collapsedLanes:
       "file.file\x1fnote.tags": []
       "note.status\x1fnote.tags": []
       "note.status\x1fnote.tesjes": []
+      "note.status\x1fnote.archived":
+        - "true"
     quickAddFolder: /Notes/Work/Projects/Tracker DLLs/Kanban Items
     imageAspectRatio: 0.5
   - type: cards

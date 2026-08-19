@@ -1,8 +1,8 @@
 [
   "obsidian-git",
-  "obsidian-kanban",
   "quickadd",
   "kanban-bases-view",
   "obsidian-task-archiver",
-  "metadata-menu"
+  "metadata-menu",
+  "templater-obsidian"
 ]
