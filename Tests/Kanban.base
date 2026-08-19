@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - file.folder == this.file.folder + "/Kanban Items"
+        - status != "Archived"
     order: []
     columnOrders:
       file.file:
@@ -231,7 +232,6 @@ views:
         - Must Do
         - in-progress
         - Done
-        - Archived
     cardOrders:
       file.file: {}
       note.tags:
@@ -247,15 +247,18 @@ views:
           - Tests/Notes/blbla.md
         in-progress: []
         Uncategorized: []
-        Must Do:
-          - Tests/Kanban Items/Untitled.md
+        Must Do: []
         Could Do:
-          - Tests/Kanban Items/fdsafdsaf.md
-        Done:
-          - Tests/Kanban Items/Tsest.md
+          - Tests/Kanban Items/This is ok.md
+          - Tests/Kanban Items/Untitled.md
+          - Tests/Kanban Items/tests 1.md
+          - Tests/Kanban Items/tests.md
+        Done: []
         Should Do:
-          - Tests/Notes/testsett.md
-        Archived: []
+          - Tests/Kanban Items/fdsafdsaf.md
+          - Tests/Kanban Items/Test.md
+        Archived:
+          - Tests/Kanban Items/fdafsda.md
       "note.status\x1fnote.tags": {}
       "note.status\x1fnote.tesjes":
         "1\x1fMust Do": []

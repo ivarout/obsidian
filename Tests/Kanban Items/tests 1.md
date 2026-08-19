@@ -1,4 +1,3 @@
 ---
 status: Could Do
-tesjes: "1"
 ---
