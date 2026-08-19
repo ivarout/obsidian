@@ -1,4 +1,4 @@
 ---
-status: Must Do
+status: Done
 tesjes: "2"
 ---

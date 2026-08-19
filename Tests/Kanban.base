@@ -4,8 +4,7 @@ views:
     filters:
       and:
         - file.folder == this.file.folder + "/Kanban Items"
-    order:
-      - file.name
+    order: []
     columnOrders:
       file.file:
         - Archive/Daily Notes/2026-03-12 Daily Note.md
@@ -246,16 +245,14 @@ views:
           - Tests/Notes/fdafdafdd.md
           - Tests/Notes/Untitled.md
           - Tests/Notes/blbla.md
-        in-progress:
-          - Tests/Kanban Items/Tsest.md
+        in-progress: []
         Uncategorized: []
         Must Do:
-          - Tests/Kanban Items/fdsafdsaf.md
-        Could Do:
-          - Tests/Kanban Items/fdafsda.md
-          - Tests/Kanban Items/hey joh.md
-        Done:
           - Tests/Kanban Items/Untitled.md
+        Could Do:
+          - Tests/Kanban Items/fdsafdsaf.md
+        Done:
+          - Tests/Kanban Items/Tsest.md
         Should Do:
           - Tests/Notes/testsett.md
         Archived: []
