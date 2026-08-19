@@ -17,4 +17,4 @@ participants:
 	- less comfortable than TIE
 	- Easier to get permission for jamming to ka
 	- Effector drone flown with 125 gr explosive payload
-	- 
+	- many effectors fpv controlled, about 2/5 were effective. Others would circle around the target a bit, turbulence could be an issue.
