@@ -277,6 +277,6 @@ views:
     collapsedLanes:
       "file.file\x1fnote.tags": []
       "note.status\x1fnote.tags": []
-    quickAddFolder: Kanban Items
+    quickAddFolder: .
     imageAspectRatio: 0.5
     cardTitleProperty: note.status
